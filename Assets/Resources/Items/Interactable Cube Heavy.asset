@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1292cede9fddeb439cedfe64480ee16, type: 3}
+  m_Name: Interactable Cube Heavy
+  m_EditorClassIdentifier: 
+  maxStackSize: 1
+  prefab: {fileID: 3711293597788637379, guid: 3844eb14c47c6504db4fa0b536e8e3b3, type: 3}
+  model: {fileID: 3261033527907365264, guid: c6c9bb601f23e8443876e2923dcea642, type: 3}

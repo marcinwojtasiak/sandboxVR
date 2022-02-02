@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.powderbox.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Powderbox downgrade test\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Powderbox downgrade test [Testing]"
+        }
+      }
+    }
+  ]
+}

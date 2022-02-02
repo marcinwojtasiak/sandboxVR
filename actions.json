@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "name": "/actions/In_game/in/LeftSkeleton",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left"
+    },
+    {
+      "name": "/actions/In_game/in/RightSkeleton",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/In_game/in/Pose",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/In_game/in/Grab",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/In_game/in/Use",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/In_game/in/Menu",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/In_game/in/Touchpad",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/In_game/in/Squeeze",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/In_game/in/TouchpadClick",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/In_game/in/TouchpadPosition",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/In_game/out/Haptic",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/In_game",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "application_generated_unity_powderbox_exe_binding_vive_controller.json"
+    }
+  ],
+  "localization": []
+}
